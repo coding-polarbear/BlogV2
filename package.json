@@ -16,7 +16,7 @@
     "getmdl-select": "^2.0.1",
     "highlight.js": "^9.12.0",
     "jsonwebtoken": "^8.3.0",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-video": "^0.6.3",
     "mdl-selectfield": "^1.0.4",
     "mongoose": "^5.9.16",
